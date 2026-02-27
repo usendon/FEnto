@@ -17,10 +17,10 @@ python -m pip install git+https://github.com/usc3-ua/FEnto.git
 ```
 donde los dos primeros comandos crean y activan un entorno virtual de nombre 'env' (en Linux/macOS). Este paso no es estrictamente necesario pero sí recomendable, pues permite aislar las dependencias del proyecto y evitar conflictos con otras instalaciones del sistema. 
 
-Una vez instalado, para poder hacer uso de sus programas puede importarse en su totalidad con:
+Una vez instalado, hay que moverse a la carpeta del paquete para poder hacer uso de sus programas:
 
 ```
-from FEnto import*
+cd env/lib/python3.13/site-packages/FEnto
 ```
 
 Al terminar, se sale del entorno virtual con el comando:
