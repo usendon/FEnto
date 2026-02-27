@@ -19,5 +19,5 @@ license = { text = "MIT" }
 keywords = ["elementos finitos", "FEM", "MEF", "ecuaciones diferenciales", "EDs", "EDPs"]
 
 [project.urls]
-Homepage = "https://github.com/usc3-ua/FEnto/tree/main"
+Homepage = "https://github.com/usendon/FEnto"
 DOWNLOAD = "https://github.com/usendon/FEnto.git"
