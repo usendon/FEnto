@@ -2,5 +2,4 @@
 .DS_Store
 *.egg_info
 dist/*
-imágenes/*
 
