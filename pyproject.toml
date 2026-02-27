@@ -20,4 +20,4 @@ keywords = ["elementos finitos", "FEM", "MEF", "ecuaciones diferenciales", "EDs"
 
 [project.urls]
 Homepage = "https://github.com/usc3-ua/FEnto/tree/main"
-DOWNLOAD = "https://github.com/usc3-ua/FEnto.git"
+DOWNLOAD = "https://github.com/usendon/FEnto.git"
